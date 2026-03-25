@@ -1,6 +1,6 @@
 # Instagram Clone
 
-A full-featured social media web application inspired by Instagram, built with a Node.js/Express backend and a vanilla JavaScript frontend. The application is fully localized in **Hebrew** with right-to-left (RTL) layout support.
+A full featured social media web application inspired by Instagram, built with a Node.js/Express backend and a vanilla JavaScript frontend. The application is fully localized in Hebrew with right to left (RTL) layout support.
 
 ---
 
